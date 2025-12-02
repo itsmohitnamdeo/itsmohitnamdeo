@@ -13,7 +13,7 @@ Hi, I'm Mohit Namdeo !
 <hr/>
 <samp>
 - 👀 I’m interested in Programming , Web development and designing , Mobile app development and coding ...<br>
-- 🌱 I’m currently pursuing B.Tech Computer Science Engineering ...<br>
+- 🌱 I’m Software Engineer ...<br>
 - 📱  Mobile App developer ...<br>
 - 💖 Hobbies -  💻 programming , 🏏Cricket , ⚽ Football , 🎮 Video Games , 🖼 painting , 
                 🎵 Singing & Listening Music , 📗 Reading , 🎬 Acting , 🎥 Video Editing , 🖋 Writing ,  🏍Travelling , 😎Fashion ...<br>
@@ -147,5 +147,6 @@ Hi, I'm Mohit Namdeo !
 	<a href="https://www.instagram.com/mohit.namdeo.19/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	<a href="mailto:namdeomohit198@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 </p>
+
 
 
