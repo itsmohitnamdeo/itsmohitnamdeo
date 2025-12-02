@@ -7,7 +7,6 @@ Hi, I'm Mohit Namdeo !
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <br/>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
@@ -90,34 +89,63 @@ Hi, I'm Mohit Namdeo !
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
-## 📊 Github stats
-
-<!-- https://github.com/anuraghazra/github-readme-stats -->
+<!-- 📊 GitHub Profile Stats -->
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mohit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=itsmohitnamdeo&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mohit's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmohitnamdeo&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img 
+      alt="Mohit's Github Stats" 
+      src="https://github-readme-stats.vercel.app/api?username=itsmohitnamdeo&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" 
+      height="192px"
+    />
+  </a>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img 
+      alt="Mohit's Top Languages" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmohitnamdeo&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" 
+      height="192px"
+    />
+  </a>
+
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <b>Note:</b> This only shows the languages of public repositories, not skill level.
 </details>
 
-<!-- https://github.com/itsmohitnamdeo/github-readme-activity-graph -->
+
+<!-- 🎯 Streak Stats -->
 <details>
-  <summary>⚡ Recent GitHub Activity ⚡</summary>
+  <summary>🔥 GitHub Streak Stats</summary>
   <br/>
-   <a href="https://github.com/itsmohitnamdeo/github-readme-activity-graph"><img alt="Mohits's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=itsmohitnamdeo&custom_title=itsmohitnamdeo's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  <img 
+    src="https://streak-stats.demolab.com?user=itsmohitnamdeo&theme=react&hide_border=true&background=1F222E&ring=F85D7F&currStreakLabel=F8D866"
+    alt="GitHub Streak Stats"
+  />
   <br/>
 </details>
 
-<!-- https://github.com/sisodiya2421 -->
+<!-- 🏆 GitHub Trophies -->
+<details>
+  <summary>🏆 GitHub Trophies</summary>
+  <br/>
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=itsmohitnamdeo&theme=onedark&no-frame=true&column=4" 
+    alt="GitHub Trophies"
+  />
+  <br/>
+</details>
+
+
 ## Let's Connect 💞
 <p align="center">
 	<a href="https://itsmohitnamdeo.github.io/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a>
 	<a href="https://github.com/itsmohitnamdeo" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/mohit-namdeo-27684b1a0/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https:https://www.linkedin.com/in/mohit-namdeo/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/mohitnamdeo198/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/mohit_namdeo_379/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://www.instagram.com/mohit.namdeo.19/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	<a href="mailto:namdeomohit198@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 </p>
+
 
